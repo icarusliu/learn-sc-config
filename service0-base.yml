@@ -1,2 +1,5 @@
 app:
   test: service0
+spring:
+  application:
+    name: service0
